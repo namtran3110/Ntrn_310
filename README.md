@@ -10,6 +10,15 @@
 4. Cài đặt SQL Server Management Studio
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/084b9769-246e-48ba-9381-fb2331ffe7c7" />
 5. Chạy phần mềm ssms để đăng nhập vào SQL Server bằng 2 cách: Windows Authentication và SQL Server Authentication
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b03b1a2a-8ef1-4005-96e9-41780a61c388" />
+6. Sử dụng giao diện đồ hoạ của ssms: Tạo cơ sở dữ liệu mới với tên tuỳ ý, lưu tại ổ E
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/121cc95d-3157-4bee-9b6e-0955c4ade635" />
+
+
+
+
+
+
 
 
 
