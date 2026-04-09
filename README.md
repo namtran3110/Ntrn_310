@@ -1,7 +1,8 @@
-* Họ và tên: Trần Nhất Nam
-* MSSV: K235480106001
-* Lớp: K59KMT
-# 1. Download và cài đặt SQL Server 2025, phiên bản Developer
+# MÔN HỌC: HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU - ThS.ĐỖ DUY CỐP
+## Họ và tên: Trần Nhất Nam
+## MSSV: K235480106001
+## Lớp: K59KMT
+# 1. Download và cài đặt SQL Server 2025, phiên bản Developer với 2 kiểu login
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26f6744c-e645-4ce4-8831-056c6fe1ec37" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff37a0ac-82f0-4d5e-b1c9-0ada4743d532" />
 
@@ -16,10 +17,12 @@
 # 4. Cài đặt SQL Server Management Studio
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/084b9769-246e-48ba-9381-fb2331ffe7c7" />
 
-# 5. Chạy phần mềm ssms để đăng nhập vào SQL Server bằng 2 cách: Windows Authentication và SQL Server Authentication
+# 5. Chạy phần mềm SSMS để đăng nhập vào SQL Server bằng 2 cách: Windows Authentication và SQL Server Authentication
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b03b1a2a-8ef1-4005-96e9-41780a61c388" />
 
 # 6. Sử dụng giao diện đồ hoạ của ssms: Tạo cơ sở dữ liệu mới với tên tuỳ ý, lưu tại ổ E
++ Tên cơ sở dữ liệu (Database): SV_6001
++ Vị trí lưu: E:\SQL_Thay_Cop
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/121cc95d-3157-4bee-9b6e-0955c4ade635" />
 
 # 7. Sử dụng giao diện đồ hoạ của ssms: Tạo bảng dữ liệu (create and design table) với tên bảng tuỳ ý, có các trường dữ liệu phù hợp với dữ liệu của file data mẫu (CSV), với Khoá chính (Primary Key) là trường masv
