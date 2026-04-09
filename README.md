@@ -38,11 +38,14 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dceb8960-c228-46a2-b0c4-67b6964a2aba" />
 
 # 11. Trong cửa sổ mới để gõ lệnh: Gõ lệnh để cập nhật(update) trường noisinh thành 'Sao Hoả' cho những dòng có noisinh và diachi đều là NULL
-
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7036c3a1-19f4-4905-a26a-11ccc485850c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49291ced-2182-4694-a3b9-e016a5000886" />
 
-# 12. 
+
+# 12. Sử dụng giao diện đồ hoạ của ssms: Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả', keyword gợi ý: sử dụng 1 câu lệnh: SELECT + INTO
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/193b6994-91fa-4da8-a16c-5c36e230a122" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/093d983a-4281-4824-98d4-3508eb8af43b" />
+
 
 
 
