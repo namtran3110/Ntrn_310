@@ -9,6 +9,7 @@
 # 2. Cấu hình cho SQL Server làm việc ở cổng động (Dynamic Port với xxxx=6001)
 + TCP/IP: Enable
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6686eeb9-f587-4751-848e-54f0e44f5259" />
+
 + Thiết lập TCP Dynamic Ports: 36001
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6bccbd9-0a69-4170-ac2b-bc4c59fa6d9f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e55cf08f-4add-4b6f-baec-52f73c7bb795" />
@@ -45,7 +46,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90adb475-38db-4fbd-8511-98ea5403a209" />
 
 # 10. Trong cửa sổ mới để gõ lệnh: Gõ lệnh để thêm 1 row vào bảng, với dữ liệu là thông tin cá nhân sinh viên
-+ Thông tin sẽ chèn thêm vào bảng: K235480106001,Trần Nhất Nam, K59KMT,31/10/2005,Thái Nguyên,Tổ Cầu - Bách Quan - Thái Nguyên
++ Thông tin sẽ chèn thêm vào bảng: K235480106001,Trần Nhất Nam, K59KMT,31/10/2005,Thái Nguyên,Tổ Cầu - Bách Quang - Thái Nguyên
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dceb8960-c228-46a2-b0c4-67b6964a2aba" />
 
 # 11. Trong cửa sổ mới để gõ lệnh: Gõ lệnh để cập nhật trường noisinh thành 'Sao Hoả' cho những dòng có noisinh và diachi đều là NULL
@@ -67,7 +68,7 @@
 # 14. Sử dụng giao diện đồ hoạ của SSMS: Xuất toàn bộ kết quả của các bước 6,7,8,9,10,11,12,13 ra file dulieu.sql
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3da24efd-5d3f-4a1b-93b2-dfabe9edab13" />
 
-# 15. Sử dụng giao diện đồ hoạ của SSMS: Xoá csdl đã tạo, sau khi xoá thành công, kiểm tra tại path (path chọn ở bước 6) xem còn tồn tại 2 file của bước 6 không?
+# 15. Sử dụng giao diện đồ hoạ của SSMS: Xoá csdl đã tạo, sau khi xoá, kiểm tra tại path (path chọn ở bước 6) xem còn tồn tại 2 file của bước 6 không?
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5f735fe-c58f-4428-9e47-8e31eba0f104" />
 
 + Database SV_6001 đã bị xóa hoàn toàn
@@ -81,6 +82,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d223c01b-7bf1-4b5b-a00a-e8234ec3a858" />
 
 # 17. File dulieu.sql
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e6763be-7f70-44ba-8a3f-7bbf3ed1ce7e" />
 
 
 
